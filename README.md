@@ -1,2 +1,8 @@
-# BSRP_Car_Locks
-Simple Car lock script
+
+
+ 
+
+- **DELETE** - Save/unsave the vehicle you are in  
+- **U** - Lock/unlock the saved car
+
+The keys can be changed in the game menu.
